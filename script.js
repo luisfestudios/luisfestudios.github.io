@@ -1,7 +1,7 @@
 let dolar=document.getElementById("dolarclp");
 let euro=document.getElementById("euroclp");
 let gbp=document.getElementById("libraclp");
-fetch('https://v6.exchangerate-api.com/v6/apiaqui/latest/CLP') 
+fetch('https://v6.exchangerate-api.com/v6/52f9d4b3d0d6e5659f4f66a6/latest/CLP') 
 .then(response => response.json())
   .then(data => {
     

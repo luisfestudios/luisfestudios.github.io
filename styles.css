@@ -4,6 +4,9 @@ ul {
 #contenido {
   margin-top: 59px;
 }
+.carousel-inner {
+  height: 90vh;
+}
 
 header {
   background-color: rgb(19, 19, 19);
